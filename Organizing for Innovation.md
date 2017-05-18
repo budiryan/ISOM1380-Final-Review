@@ -92,13 +92,15 @@ The term come from Lockheed Martin's highly secretive facility that developed th
 __GoogleX__, __Boeing Phantom Works__, __Amazon Lab126__
 
 #### Stucture model: Centralization & Decentralization
+<img src="img/organizing_innovation_1.jpg" width="800px" height="400px"/>
+
 ##### Centralization
 - Ensures projects match firm-wide objectives
 - Avoid redundancy
 - Maximize economies of scale
 - Promotes Cooperation
-- Example: Intel
+- Example: __Intel__
 ##### Decentralization
 - R&D activites are more market oriented
 - Have better understanding of what the customers want
-- Example: Microsoft
+- Example: __Microsoft__

@@ -18,7 +18,7 @@ However, companies did well with sustaining technologies.
 This theory is therefore invalid.
 
 # So Why did the firms fail?
-<img src="img/disruptive_technology_1.jpg" style="width:150px;height:150px"/>
+<img src="img/disruptive_technology_1.jpg" width="400px" height="400px"/>
 The 8 inch DD had already been used in the market for a few years before the 5.25 DD came out in the market.
 
 In three crucial attributes the 8 inch DD was superior to the 5.25 inch DD.
@@ -45,6 +45,7 @@ Although the 8 inch drive technology is far superior than 5.25, the 5.25 eventua
 - Mainstream customers do not value them (initially)
 
 # Sustaining vs Disruptive Technologies
+<img src="img/disruptive_technology_2.jpg" width="400px" height="400px"/>
 ## Sustaning Technologies:
 - Improve products along dimensions mainstream customer want
 - Established firms led development
