@@ -102,4 +102,3 @@ __GoogleX__, __Boeing Phantom Works__, __Amazon Lab126__
 - R&D activites are more market oriented
 - Have better understanding of what the customers want
 - Example: Microsoft
-
