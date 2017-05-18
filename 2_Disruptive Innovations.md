@@ -46,6 +46,7 @@ Although the 8 inch drive technology is far superior than 5.25, the 5.25 eventua
 
 # Sustaining vs Disruptive Technologies
 <img src="img/disruptive_technology_2.jpg" width="400px" height="400px"/>
+
 ## Sustaning Technologies:
 - Improve products along dimensions mainstream customer want
 - Established firms led development
