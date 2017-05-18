@@ -29,8 +29,8 @@ Westin rewards an exotic, five-day trip to the employee with the quarter's best 
 ### Intuit:
 Intuit hosts a company-wide award ceremony at which the "Failure Award" is bestowed on a team whose unsuccessful idea resulted in valuable learning.
 
-### Perks:
-## Google:
+## Perks:
+### Google:
 - Free food
 - Free travel
 - Extended time-off to follow passion
