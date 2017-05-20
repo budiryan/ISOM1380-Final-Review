@@ -1,17 +1,12 @@
 # Traditional Product Development vs. Agile
 ## Traditional product development Approach
-Concentrates on thorough, upfront planning 
-of the entire project
-
-Requires a high degree of predictability to be effective.
+- Concentrates on thorough, upfront planning of the entire project
+- Requires a high degree of predictability to be effective.
 
 ## Agile Development
-Relies on incremental, iterative development cycles 
-to complete less-predictable projects
-
-Is ideal for projects in which requirements need to be discovered and new technology tested
-
-Focuses on active collaboration between the project team and customer representatives
+- Relies on incremental, iterative development cycles to complete less-predictable projects
+- Is ideal for projects in which requirements need to be discovered and new technology tested
+- Focuses on active collaboration between the project team and customer representatives
 
 # Diagram of Agile / Iterative Incremental Development
 <img src="img/agile_1.png" width="800px" height="300px"/>
