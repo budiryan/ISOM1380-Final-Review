@@ -104,11 +104,11 @@ physical activity throughout the day
 - Rate on a scale of 1-5 “How would you feel if your Apple Watch did not have the ability to show messages“
 - The attribute if not present causes great dissatisfaction but if present  does not cause great satisfaction. This attribute is considered to be a __must have__
 
-### Kano Method vs Conjoint:
-#### Conjoint
+## Kano Method vs Conjoint:
+### Conjoint
 - Access the relative importance to customers of different product features (including price)
 - Find out the best combination of features to meet their needs, even when customers are not aware that.
-#### Kano
+### Kano
 - Examines the relationship between the presence of a product feature and customer satisfaction when that relationship may not be linear
 - Evaluates customer preferences when a feature is present than the feature is absent
 
