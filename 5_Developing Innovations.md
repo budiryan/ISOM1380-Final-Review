@@ -121,6 +121,9 @@ The stage gate process specifies that after each stage, decision must be made ab
 
 <img src="img/developing_innovations_4.png" width="800px" height="200px"/>
 
+## Why Stage Gate Model?
+Restricts investment in the more costly stages of the innovation process until key milestones have been met.
+
 ## What is a "Gate"?
 <img src="img/developing_innovations_6.png" width="800px" height="600px">
 
