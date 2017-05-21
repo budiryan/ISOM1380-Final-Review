@@ -19,11 +19,12 @@ This theory is therefore invalid.
 
 # So Why did the firms fail?
 <img src="img/disruptive_technology_1.jpg" width="400px" height="400px"/>
+
 - The 8 inch DD had already been used in the market for a few years before the 5.25 DD came out in the market.
 - In three crucial attributes (capacity, access time, cost/mb) the 8 inch DD was superior to the 5.25 inch DD.
 - All 8 inch DD manufacturers had access to 5.25 DD technology since it was relatively simple.
 - The 8 inch DD was primarily used in Minicomputers.
-- 8 inch DD manufactures tried selling their 5.25 technology to their customers --> got rejected and cancelled further the development of 5.25 inch DD.
+- 8 inch DD manufactures tried selling their 5.25 technology to their customers, got rejected and cancelled further the development of 5.25 inch DD.
 - Seagate introduces 5.25 inch DD in Microcomputer Market and Microcomputer manufacturers love it because of: Small physical size, Low unit cost, Low Weight
 
 Microcomputer market targets: __INDIVIDUALS__
